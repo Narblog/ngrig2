@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  ul ol {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  header {
+    width: 100%;
+    height: 400px;
+    background-image: url(../1.jpg);
+    background-size: cover;
+    background-position: center;
+    ;
+  }
+  
+  nav {
+    width: 100%;
+    height: 60px;
+    background-color: brown;
+  }
+  
+  section {
+    background-color: azure;
+    width: 80%;
+    height: 1030px;
+    margin: 5px auto;
+  }
+  
+  h1 {
+    float: right;
+    font-size: 50px;
+    letter-spacing: 8px;
+    color: rgb(131, 131, 131);
+    margin-right: 40px;
+    margin-top: 50px;
+    font-family: 'Parisienne', cursive;
+  }
+  
+  nav a {
+    
+    color: aliceblue;
+    font-size: 28px;
+    padding: 15px;
+    margin-right: 60px;
+    letter-spacing: 3px;
+  }
+  
+  .sectiondiv {
+    width: 70%;
+    float: left;
+    height: 1030px;
+    padding: 30px;
+    background-color: antiquewhite;
+  }
+  nav ul {
+float:right;
+  }
+  
+  .sectiondiv2 {
+    width: 30%;
+    float: right;
+    height: 1030px;
+    padding: 30px;
+    background-color: rgb(227, 228, 229);
+  }
+  
+  .sectiondiv h2 {
+    font-size: 70px;
+    letter-spacing: 15px;
+    font-family: 'Parisienne', cursive;
+  }
+  
+  .sectiondiv p {
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-top: 30px;
+    text-align: justify;
+    font-family: 'Parisienne', cursive;
+  }
+  
+  .sectiondiv ul {
+    margin: 20px;
+    line-height: 40px;
+    font-size: 30px;
+    padding: 20px;
+  }
+  
+  .sectiondiv h3 {
+    font-size: 35px;
+    letter-spacing: 5px;
+    margin-top: 20px;
+  
+  }
+  
+  .sectiondiv2 h2 {
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 5px;
+  }
+  
+  .sectiondiv2 span {
+    font-size: 35px;
+    color: rgb(179, 82, 82);
+    margin-left: 60px;
+    letter-spacing: 6px;
+  
+  }
+  
+  .sectiondiv2 p {
+    font-size: 25px;
+    letter-spacing: 2px;
+    margin-top: 28px;
+  }
+  
+  .sectiondiv2 a {
+    margin-top: 20px;
+    padding: 17px 26px;
+    display: inline-block;
+    color: #eee;
+    background-color: #282828;
+    font-size: 21px;
+    letter-spacing: 5px;
+  }
+  
+  .images1 {
+    float: right;
+  }
+  
+  footer {
+    width: 100%;
+    background-color: #282828;
+    color: #eee;
+    font-size: 24px;
+    text-align: center;
+    height: 50px;
+    padding: 10px;
+    font-family: 'Koulen', cursive;
+
+  }
+  
+  .Louvre {
+    margin-top: 15px;
+    letter-spacing: 5px;
+  }
+  .sectiondiv p {
+    clear: both;
+  }
+  
+  
